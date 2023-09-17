@@ -1,0 +1,9 @@
+#controls i {
+    font-size: 30px;
+    color: aqua;
+    margin-right: 20px;
+}
+
+#controls #play {
+    cursor: pointer;
+}
